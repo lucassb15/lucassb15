@@ -3,7 +3,7 @@
 
 - 🔭 Estudando e aprimorando...
 - 🌱 Estudando HTML / CSS / JavaScript ...
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas pela <a href="http://www.fatecguaratingueta.edu.br/nportal/" target="_blank">Fatec Guaratinguetá.</a>
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas pela [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
 
  <div>
   <a href="https://github.com/lucassb15">
