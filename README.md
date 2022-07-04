@@ -2,7 +2,7 @@
 
 
 - 🔭 Estudando e aprimorando...
-- 🌱 Estudando HTML / CSS / JavaScript ...
+- 🌱 Estudando JavaScript/ TypeScript/ ReactJS
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas pela [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
 
  <div>
