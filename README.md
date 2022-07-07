@@ -1,6 +1,6 @@
 <h1> Hi 👋 I'm Lucas Barbosa </h1>
 
-- 🌱 <p>I’m currently learning <strong>JavaScript, TypeScript and ReactJS</strong></p>
+<p> - 🌱 I’m currently learning <strong>JavaScript, TypeScript and ReactJS</strong></p>
 
 - 📚 Systems Analysis and Development Student at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
  
@@ -8,8 +8,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="460em" src="https://github-readme-stats.vercel.app/api?username=lucassb15&show_icons=true&theme=vision-friendly-dark" alt="lucassb15's stats"/>
-<img width="459em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassb15&layout=compact&theme=vision-friendly-dark" alt="lucassb15's most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=lucassb15&show_icons=true&theme=vision-friendly-dark" alt="lucassb15's stats"/>
+<img width="448em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassb15&layout=compact&theme=vision-friendly-dark" alt="lucassb15's most languages"/>
 </p>
 
 <br><br>
