@@ -1,8 +1,9 @@
+Hi I'm a Lucas Barbosa
+- 🌱 Studying JavaScript/ TypeScript/ ReactJS
 
-- 🔭 Estudando e aprimorando...
-- 🌱 Estudando JavaScript/ TypeScript/ ReactJS
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas pela [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
-
+- 📚 Systems Analysis and Development Student at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
+ 
+<br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -10,7 +11,7 @@
 <img width="459em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassb15&layout=compact&theme=vision-friendly-dark" alt="lucassb15's most languages"/>
 </p>
 
-<br>
+<br><br>
  
  ## 🛠 &nbsp;Tech Stack
 
@@ -22,5 +23,17 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/lucas-soares-barbosa/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-lucassb15-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/lukas_soares019/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-lucassb15-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
 
 
