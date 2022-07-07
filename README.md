@@ -3,12 +3,14 @@
 - 🌱 Estudando JavaScript/ TypeScript/ ReactJS
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas pela [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
 
- <div>
-  <a href="https://github.com/lucassb15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassb15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassb15&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- <br>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
+<br>
  
  ## 🛠 &nbsp;Tech Stack
 
