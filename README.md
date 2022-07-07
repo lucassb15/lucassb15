@@ -34,10 +34,10 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/lucas-soares-barbosa/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucassb15-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-lucasbarbosa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/lukas_soares019/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucassb15-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-lucasbarbosa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
