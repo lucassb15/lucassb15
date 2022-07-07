@@ -1,5 +1,6 @@
-Hi I'm a Lucas Barbosa
-- 🌱 Studying <strong>JavaScript, TypeScript and ReactJS</strong>
+<h1> Hi 👋 I'm Lucas Barbosa </h1>
+
+- 🌱 <p>I’m currently learning <strong>JavaScript, TypeScript and ReactJS</strong></p>
 
 - 📚 Systems Analysis and Development Student at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
  
