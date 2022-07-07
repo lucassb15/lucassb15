@@ -7,7 +7,7 @@
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="inline-block">
+<p align="">
 <img width="200em" src="https://github-readme-stats.vercel.app/api?username=lucassb15&show_icons=true&theme=vision-friendly-dark" alt="lucassb15's stats"/>
 <img width="438em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassb15&layout=compact&theme=vision-friendly-dark" alt="lucassb15's most languages"/>
 </p>
