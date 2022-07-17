@@ -1,5 +1,5 @@
 <!-- Introduction -->
-<h1> Hi 👋 I'm Lucas Barbosa </h1>
+<h1> Hi 👋 I'm Lucas Barbosa. </h1>
 
 - 🌱 I’m currently learning <strong>JavaScript, TypeScript and ReactJS.</strong>
 
