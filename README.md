@@ -10,7 +10,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="395rem" src="https://github-readme-stats.vercel.app/api?username=lucassb15&show_icons=true&theme=vision-friendly-dark" alt="lucassb15's stats"/>
+<img width="394rem" src="https://github-readme-stats.vercel.app/api?username=lucassb15&show_icons=true&theme=vision-friendly-dark" alt="lucassb15's stats"/>
 <img width="345rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassb15&layout=compact&theme=vision-friendly-dark" alt="lucassb15's most languages"/>
 </p>
 
