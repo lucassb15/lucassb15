@@ -1,10 +1,5 @@
 <!-- Introduction -->
 <h1> Hi 👋 I'm Lucas Barbosa </h1>
-
-- 🌱 I’m currently learning <strong>Go language, Javascript, MongoDB and Sass</strong>
-
-- 📚 Systems Analysis and Development Student at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
-
 <br>
 <!-- GitHub Infos -->
 
