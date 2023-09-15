@@ -2,7 +2,7 @@
 <h1> Hi 👋 I'm Lucas Barbosa </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lucassb15&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"/>
+    <img alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lucassb15&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"/>
   </a>
 </p>
 <br>
