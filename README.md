@@ -1,17 +1,12 @@
 <!-- Introduction -->
 <h1> Hi 👋 I'm Lucas Barbosa </h1>
-<br>
-<!-- GitHub Infos -->
-
-## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lucassb15&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"/>
   </a>
 </p>
 <br>
- <!-- Tools -->
- 
+
  ## 🛠 &nbsp;Tech Stack.
 ![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
 ![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react&logoColor=1572B6)&nbsp;
@@ -24,7 +19,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 <br>
 <!-- Social network -->
 
