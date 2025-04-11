@@ -1,36 +1,53 @@
 <!-- Introduction -->
-<h1> Hi 👋 I'm Lucas Barbosa. </h1>
+<h1 align="center">Lucas Barbosa</h1>
+<h3 align="center">Full-Stack Developer | Tech Leadership in Progress 🚀</h3>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lucassb15&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"/>
+    <img alt="lucassb15's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lucassb15&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"/>
   </a>
 </p>
-<br>
 
- ## 🛠 &nbsp;Tech Stack.
-![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
-![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript&logoColor=1572B6)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br>
-<!-- Social network -->
+---
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🚀 About Me
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/lucas-soares-barbosa/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucasbarbosa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://lucassb15.github.io/portfolio-lsb/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-portfolio-05122A?style=flat&logo=github" alt="portfolio"/>
-</a>
+- 🧠 **Full-Stack Developer** at **Branddi**  
+- 🛠️ **Founder** of **Lembreti** – smart WhatsApp reminder platform  
+- 🔁 Passionate about performance, automation, clean architecture  
+- 🧭 Focused on becoming a **Tech Lead**  
+- 🌎 Based in Guaratinguetá - SP, Brazil  
+
+---
+
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SendGrid-00B3E3?logo=sendgrid&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white&style=for-the-badge" />
 </p>
 
 
+---
+
+## 💼 What I’m Working On
+
+- 👨‍💻 Leading a backend squad focused on scaling microservices and performance  
+- 📩 Implementing automated email workflows with high reliability  
+- 📊 Monitoring infrastructure (Heroku, MongoDB, Google Cloud Logs) to detect bottlenecks and errors  
+- 🧩 Building **Lembreti** MVP – Smart reminders via WhatsApp (Go + React + MongoDB)  
+- ⚙️ Automating ETL pipelines and data ingestion into BigQuery  
+
+---
