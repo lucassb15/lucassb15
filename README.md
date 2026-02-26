@@ -1,7 +1,8 @@
-<!-- HERO SECTION -->
+<!-- HERO -->
 <h1 align="center">Lucas Barbosa</h1>
+
 <h3 align="center">
-Backend-Focused Full-Stack Engineer | Clean Architecture | High-Performance Systems
+Software Engineer | Distributed Systems | Data Pipelines | Clean Architecture
 </h3>
 
 <p align="center">
@@ -11,87 +12,91 @@ Backend-Focused Full-Stack Engineer | Clean Architecture | High-Performance Syst
 </p>
 
 <p align="center">
-  <b>I build scalable systems, optimize data pipelines and design architectures that don't break under pressure.</b>
+  I design systems that scale, process high-volume data and remain maintainable under growth pressure.
 </p>
 
 <p align="center">
-  🇧🇷 Brazil • Open to global opportunities
+  🇧🇷 Brazil • Open to Remote Global Roles
 </p>
 
 ---
 
-## ⚡ Who I Am
+## ⚙️ Engineering Profile
 
-I’m a backend-focused Full-Stack Engineer working on high-scale systems involving data pipelines, microservices and automation.
+Backend-focused Software Engineer with strong experience in:
 
-Currently:
-- Architecting and scaling backend services at **Branddi**
-- Designing production-grade ETL pipelines (MongoDB → BigQuery)
-- Leading technical decisions with Clean Architecture principles
-- Building **Lembreti**, a SaaS for automated WhatsApp reminders
+- Designing scalable backend architectures
+- Building high-volume ETL pipelines (MongoDB → BigQuery)
+- Structuring Clean Architecture patterns across services
+- Improving performance and reducing infrastructure costs
+- Leading architectural decisions in production systems
 
-I operate with:
-- Strong architectural thinking
-- Performance-first mindset
-- Extreme ownership
-- Clean, testable and maintainable code
+I don’t just ship features.  
+I design systems that survive growth.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Engineering Strengths
 
-- Scalable backend systems (Go, Node/NestJS)
-- MongoDB & data modeling
-- BigQuery & large-scale analytics pipelines
+- Distributed systems thinking
 - Microservices architecture
+- Data modeling & query optimization
+- Event-driven workflows
 - Clean Architecture & DDD
-- Automation & RPA workflows
-- Production observability & monitoring
+- Production observability
+- Infrastructure cost optimization
+- Backend performance tuning
 
 ---
 
-## 🚀 Impact Highlights
+## 🚀 Selected Impact
 
-- Designed backend patterns used across multiple services
-- Built ETL pipelines processing high-volume data into BigQuery
-- Implemented performance optimizations reducing bottlenecks in production
-- Structured code standards and architectural guidelines for teams
-- Founder of a SaaS product built from scratch (architecture → deploy)
+- Designed MongoDB → BigQuery ingestion pipelines handling production-scale data
+- Implemented aggregation optimizations reducing query cost in analytics workloads
+- Standardized architectural patterns across multiple backend services
+- Built automation systems integrating third-party APIs with reliability guarantees
+- Founder & architect of a SaaS product (Go + React + MongoDB)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 📈 What I’m Currently Focused On
 
-- Scaling systems beyond initial growth phase
-- Reducing data costs and improving query efficiency
-- Strengthening architecture patterns across projects
-- Moving toward Tech Lead responsibilities
+- Designing systems ready for 10x scale
+- Reducing BigQuery cost via optimized aggregation strategies
+- Improving backend concurrency and parallelism patterns
+- Strengthening domain boundaries in Clean Architecture
+- Moving toward Staff/Principal-level architectural ownership
 
 ---
 
-## 📬 Let’s Build Serious Systems
+## 📬 If You’re Hiring
 
-If you're looking for someone who:
-- Thinks beyond features
-- Designs for scale
-- Cares about architecture
-- Optimizes performance deeply
+If you need an engineer who:
 
-We should talk.
+- Thinks in systems, not endpoints
+- Understands data at scale
+- Optimizes before infrastructure explodes
+- Cares about long-term architecture, not quick hacks
+
+Let’s talk.
+<p align="center">
+  <a href="https://wa.me/5512996466913?text=Hello%20Lucas%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20an%20opportunity." target="_blank">
+    <img src="https://img.shields.io/badge/Discuss%20an%20Opportunity-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
